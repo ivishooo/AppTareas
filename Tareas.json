@@ -1,0 +1,26 @@
+[
+  {
+    "titulo": "Repasar JS",
+    "estado": "terminada"
+  },
+  {
+    "titulo": "Armar aplicación de Tareas",
+    "estado": "en progreso"
+  },
+  {
+    "titulo": "Break",
+    "estado": "pendiente"
+  },
+  {
+    "titulo": "Enseñarle js a ale",
+    "estado": "en progreso"
+  },
+  {
+    "titulo": "Darle de comer a Groot",
+    "estado": "pendiente"
+  },
+  {
+    "titulo": "IR a cagar",
+    "estado": "pendiente"
+  }
+]
