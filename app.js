@@ -23,7 +23,7 @@ switch(process.argv[2]) {
         fs.writeFileSync('./Tareas.json', JSON.stringify(arrayDeTareas, null, 2))
         console.log("Se ha creado una nueva tarea exitosamente!")
         break;
-    case 'filtrarTareas':
+    case 'filtrartareas':
         console.log("Este es el listado de tareas con este estado:")
         console.log("-------------------------------------")
         let estadoParaBuscar = process.argv[3];
